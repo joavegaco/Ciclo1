@@ -2,9 +2,6 @@ def AreaRectangulo (a,b):
     area = a*b
     return area
 
-#def AreaRectangulo (a,b):
-    #area = a*b
-    #return area
 
 def Pizza(sabor):
     print(f"Quiero una pizza de {sabor}")
